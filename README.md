@@ -142,6 +142,7 @@ upload_file("unet_saltpepper_015_weights.pth",
 - Enable GPU in Space settings.
 
 - Visit [Sprihttps://huggingface.co/spaces/your-username/denoising-spaceng](https://huggingface.co/spaces/your-username/denoising-space)
+- For Live Demo- https://huggingface.co/spaces/Abhishek4545/DIP_PROJECT
 
 ---
 ## Technologies
